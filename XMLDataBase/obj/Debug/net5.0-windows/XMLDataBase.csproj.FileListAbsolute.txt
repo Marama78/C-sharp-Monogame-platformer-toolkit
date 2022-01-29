@@ -1,0 +1,24 @@
+C:\Users\SNAKE\source\repos\MonogameToolkit\XMLDataBase\bin\Debug\net5.0-windows\XMLDataBase.deps.json
+C:\Users\SNAKE\source\repos\MonogameToolkit\XMLDataBase\bin\Debug\net5.0-windows\XMLDataBase.dll
+C:\Users\SNAKE\source\repos\MonogameToolkit\XMLDataBase\bin\Debug\net5.0-windows\ref\XMLDataBase.dll
+C:\Users\SNAKE\source\repos\MonogameToolkit\XMLDataBase\bin\Debug\net5.0-windows\XMLDataBase.pdb
+C:\Users\SNAKE\source\repos\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\XMLDataBase.csproj.AssemblyReference.cache
+C:\Users\SNAKE\source\repos\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\XMLDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SNAKE\source\repos\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\XMLDataBase.AssemblyInfoInputs.cache
+C:\Users\SNAKE\source\repos\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\XMLDataBase.AssemblyInfo.cs
+C:\Users\SNAKE\source\repos\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\XMLDataBase.csproj.CoreCompileInputs.cache
+C:\Users\SNAKE\source\repos\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\XMLDataBase.dll
+C:\Users\SNAKE\source\repos\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\ref\XMLDataBase.dll
+C:\Users\SNAKE\source\repos\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\XMLDataBase.pdb
+H:\code source\PC january 2022\MonogameToolkit\XMLDataBase\bin\Debug\net5.0-windows\XMLDataBase.deps.json
+H:\code source\PC january 2022\MonogameToolkit\XMLDataBase\bin\Debug\net5.0-windows\XMLDataBase.dll
+H:\code source\PC january 2022\MonogameToolkit\XMLDataBase\bin\Debug\net5.0-windows\ref\XMLDataBase.dll
+H:\code source\PC january 2022\MonogameToolkit\XMLDataBase\bin\Debug\net5.0-windows\XMLDataBase.pdb
+H:\code source\PC january 2022\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\XMLDataBase.GeneratedMSBuildEditorConfig.editorconfig
+H:\code source\PC january 2022\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\XMLDataBase.AssemblyInfoInputs.cache
+H:\code source\PC january 2022\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\XMLDataBase.AssemblyInfo.cs
+H:\code source\PC january 2022\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\XMLDataBase.csproj.CoreCompileInputs.cache
+H:\code source\PC january 2022\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\XMLDataBase.dll
+H:\code source\PC january 2022\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\ref\XMLDataBase.dll
+H:\code source\PC january 2022\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\XMLDataBase.pdb
+H:\code source\PC january 2022\MonogameToolkit\XMLDataBase\obj\Debug\net5.0-windows\XMLDataBase.csproj.AssemblyReference.cache
